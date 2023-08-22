@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Jan-chi-gook-su",
-    "details": "Thick Noodles in Clear Broth. Noodles in a clear broth, topped with vegetables such as mushrooms and green onions."
+    "name": "Thick Noodles in Clear Broth (Jan-chi-gook-su)",
+    "details": "Noodles in a clear broth, topped with vegetables such as mushrooms and green onions."
   },
   {
     "id": 2,
-    "name": "Kimchi-man-du",
-    "details": "Kimchi Dumplings. Dumplings made with a filling that includes kimchi."
+    "name": "Kimchi Dumplings (Kimchi-man-du)",
+    "details": "Dumplings made with a filling that includes kimchi."
   },
   {
     "id": 3,
-    "name": "Jae-yook-bok-eum",
-    "details": "Pork and Kimchi Stir-fry. Chopped pork stir-fried with thinly sliced kimchi."
+    "name": "Pork and Kimchi Stir-fry (Jae-yook-bok-eum)",
+    "details": "Chopped pork stir-fried with thinly sliced kimchi."
   },
   {
     "id": 4,
-    "name": "Bibimbap",
-    "details": "Rice Mixed with Vegetables and Beef. One of the most popular Korean dishes, bibimbap consists of a bowl of rice topped with fresh and cooked vegetables and red chili pepper paste. Everything is mixed together before eating. Seasoned raw beef, grilled beef, or a fried egg can also be added. There are many styles and regional variations of this dish. The cities of Jeonju and Jinju are famous for their distinctive bibimbap and there are other variations such as hot stone pot (dolsot) bibimbap, soybean sprout bibimbap, and vegetable bibimbap. Goldongban is the royal court term for bibimbap."
+    "name": "Bibimbap (Rice Mixed with Vegetables and Beef)",
+    "details": "One of the most popular Korean dishes, bibimbap consists of a bowl of rice topped with fresh and cooked vegetables and red chili pepper paste. Everything is mixed together before eating. Seasoned raw beef, grilled beef, or a fried egg can also be added. There are many styles and regional variations of this dish. The cities of Jeonju and Jinju are famous for their distinctive bibimbap and there are other variations such as hot stone pot (dolsot) bibimbap, soybean sprout bibimbap, and vegetable bibimbap. Goldongban is the royal court term for bibimbap."
   },
   {
     "id": 5,
-    "name": "Kimchi-jji-gae",
-    "details": "Kimchi Stew. A thick stew made from kimchi simmered with various kinds of meat."
+    "name": "Kimchi Stew (Kimchi-jji-gae)",
+    "details": "A thick stew made from kimchi simmered with various kinds of meat."
   },
   {
     "id": 6,
-    "name": "Kimchi-jeon",
-    "details": "Kimchi Pancake. Fried pancakes made with finely chopped kimchi in flour and egg batter."
+    "name": "Kimchi Pancake (Kimchi-jeon)",
+    "details": "Fried pancakes made with finely chopped kimchi in flour and egg batter."
   },
   {
     "id": 7,
-    "name": "Ja-gi-na-mul",
-    "details": "Eggplant Namul. Eggplant steamed then marinated in soy sauce, green onions, garlic, red chili pepper powder, sesame oil and vinegar."
+    "name": "Eggplant Namul (Ja-gi-na-mul)",
+    "details": "Eggplant steamed then marinated in soy sauce, green onions, garlic, red chili pepper powder, sesame oil and vinegar."
   },
   {
     "id": 8,
@@ -41,8 +41,8 @@
   },
   {
     "id": 9,
-    "name": "Bulgogi",
-    "details": "A.K.A Korean Marinaded Barbecue. Thin slices of beef marinated in a mixture of soy sauce, sugar, green onions, garlic, black pepper, sesame seeds, and sesame oil and grilled at the table. Bulgogi is one of Korea's most popular beef dishes."
+    "name": "Bulgogi (A.K.A Korean Marinaded Barbecue)",
+    "details": "Thin slices of beef marinated in a mixture of soy sauce, sugar, green onions, garlic, black pepper, sesame seeds, and sesame oil and grilled at the table. Bulgogi is one of Korea's most popular beef dishes."
   },
   {
     "id": 10,
@@ -51,57 +51,57 @@
   },
   {
     "id": 11,
-    "name": "Pa-jeon",
-    "details": "Green Onion Pancake. Pancakes made of an egg, wheat flour and rice flour batter pan-fried with green onions, chives, beef, clams, mussels and other ingredients."
+    "name": "Green Onion Pancake (Pa-jeon)",
+    "details": "Pancakes made of an egg, wheat flour and rice flour batter pan-fried with green onions, chives, beef, clams, mussels and other ingredients."
   },
   {
     "id": 12,
-    "name": "Gan-jang-ge-jang",
-    "details": "Crab Marinated in Soy Sauce. A marinated crab dish. The crab is marinated for three days in soy sauce, then the soy sauce is poured out, boiled, and poured back over the crab. It is left to sit for another three days before serving."
+    "name": "Crab Marinated in Soy Sauce (Gan-jang-ge-jang)",
+    "details": "A marinated crab dish. The crab is marinated for three days in soy sauce, then the soy sauce is poured out, boiled, and poured back over the crab. It is left to sit for another three days before serving."
   },
   {
     "id": 13,
-    "name": "Dol-sot-Bibimbap",
-    "details": "Stone Pot Bibimbap. Rice cooked in a hot stone pot and topped with vegetables, seasoned and cooked ground beef, a fried egg and other ingredients. Before eating, red pepper paste or soy sauce and sesame oil are added to taste and everything is stirred with the rice."
+    "name": "Stone Pot Bibimbap (Dol-sot-Bibimbap)",
+    "details": "Rice cooked in a hot stone pot and topped with vegetables, seasoned and cooked ground beef, a fried egg and other ingredients. Before eating, red pepper paste or soy sauce and sesame oil are added to taste and everything is stirred with the rice."
   },
   {
     "id": 14,
-    "name": "Sumn-ji-hae-jang-guk",
-    "details": "Hangover Soup with Ox Blood. A soup made of bean sprouts, fiddleheads, other vegetables, and ox blood in an ox bone broth with soybean paste (doenjang) and red chili pepper paste. This soup is popular as a remedy for hangovers."
+    "name": "Hangover Soup with Ox Blood (Sumn-ji-hae-jang-guk)",
+    "details": "A soup made of bean sprouts, fiddleheads, other vegetables, and ox blood in an ox bone broth with soybean paste (doenjang) and red chili pepper paste. This soup is popular as a remedy for hangovers."
   },
   {
     "id": 15,
-    "name": "Hae-mul-tang",
-    "details": "Seafood Hot Pot. Seafood such as fish, clams, shrimp, and squid cooked in a hot pot with vegetables."
+    "name": "Seafood Hot Pot (Hae-mul-tang)",
+    "details": "Seafood such as fish, clams, shrimp, and squid cooked in a hot pot with vegetables."
   },
   {
     "id": 16,
-    "name": "Hae-mul-pa-jeon",
-    "details": "Seafood Pancake with Green Onion. Pancakes made of flour and egg batter pan-fried with a layer of green onions and seafood."
+    "name": "Seafood Pancake with Green Onion (Hae-mul-pa-jeon)",
+    "details": "Pancakes made of flour and egg batter pan-fried with a layer of green onions and seafood."
   },
   {
     "id": 17,
-    "name": "Yang-nyum-gal-bi",
-    "details": "Marinated and Grilled Beef Short Ribs. Beef short ribs marinated in a mixture of soy sauce, green onions, garlic, black pepper, sugar, and sesame oil for a few hours, then grilled. Marinated short ribs are called yangnyeom-galbi and ribs which are not marinated are called saenggalbi. Galbi-gui is also known as bulgalbi. This is one of the most popular dishes in Korea."
+    "name": "Marinated and Grilled Beef Short Ribs (Yang-nyum-gal-bi)",
+    "details": "Beef short ribs marinated in a mixture of soy sauce, green onions, garlic, black pepper, sugar, and sesame oil for a few hours, then grilled. Marinated short ribs are called yangnyeom-galbi and ribs which are not marinated are called saenggalbi. Galbi-gui is also known as bulgalbi. This is one of the most popular dishes in Korea."
   },
   {
     "id": 18,
-    "name": "Gal-bi-jjim",
-    "details": "Braised Short Ribs. Beef short ribs cut into chunks, seasoned with soy sauce, garlic, sugar, and other spices, then simmered over a long period with pieces of Korean radish, carrots, chestnuts, jujubes, and ginkgo nuts. The dish is topped with julienned egg garnish and ground pine nuts."
+    "name": "Braised Short Ribs (Gal-bi-jjim)",
+    "details": "Beef short ribs cut into chunks, seasoned with soy sauce, garlic, sugar, and other spices, then simmered over a long period with pieces of Korean radish, carrots, chestnuts, jujubes, and ginkgo nuts. The dish is topped with julienned egg garnish and ground pine nuts."
   },
   {
     "id": 19,
-    "name": "Bibim-myun",
-    "details": "Mixed Noodles. Cooked noodles mixed with vegetables, meat, and a spicy sauce."
+    "name": "Mixed Noodles (Bibim-myun)",
+    "details": "Cooked noodles mixed with vegetables, meat, and a spicy sauce."
   },
   {
     "id": 20,
-    "name": "Jap-chae",
-    "details": " Clear Noodles Stir-fried with Vegetables. Vegetables and beef pan-fried separately then mixed with clear noodles, soy sauce, and other seasonings. One of the most popular party dishes, this dish is often seen at special banquets."
+    "name": "Clear Noodles Stir-fried with Vegetables (Jap-chae)",
+    "details": "Vegetables and beef pan-fried separately then mixed with clear noodles, soy sauce, and other seasonings. One of the most popular party dishes, this dish is often seen at special banquets."
   },
   {
     "id": 21,
-    "name": "Gam-ja-jeon",
-    "details": "Potato Cake. Small cakes made of potato starch mixed with a little salt and sugar."
+    "name": "Potato Cake (Gam-ja-jeon)",
+    "details": "Small cakes made of potato starch mixed with a little salt and sugar."
   }
 ]
